@@ -1,19 +1,17 @@
-# Benjamin Turner
-
-### About Me:
+# About Me
 I am a 3rd-year writing major at Loyola University Maryland, currently interested in becoming an author. I love writing fiction. Video games, and movies are my primary sources of inspiration, though, rather than literature. In my free time, I love listening to music.
 During the fall semester of my Junior year, I partook in a writing internship with Mxdwn games, writing articles about current events in the video games industry.
 
-### Education:
+### Education
 **BSc in Writing**  
 Loyola University Maryland
 
-### All of My Articles:
+### All of My Articles
 - During my internship with Mxdwn games this semester I had the privilage of writing 67 individual game related articles over the course of four months. Due to the sheer amount of articles, a list of all of them in chronological order can find  at my dedicated game article Instagram account, or at my personal Mxdwn games author page.
 - Full List of Articles: [Instagram](https://www.instagram.com/lukful.news/) [author page](https://games.mxdwn.com/author/august-turner/)
 
 
-### Highlighted Articles:
+### Highlighted Articles
 
 #### Article 1: Valve’s New MOBA Deadlock Sees Slight Resurgence in Player Base After Massive Updates
 - ![Image](deadlock.png)
