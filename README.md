@@ -20,18 +20,18 @@ Loyola University Maryland
 
 ***
 #### Article 2: Team Reptile’s HYPERFUNK Receives its First Teaser Trailer
-- ![Image](link-to-image)
+- ![Image](hyperfunk.jpg)
 - For my next article, I wrote about a game that I personally was extremely excited to see announced. The Jet Set Radio cross Tony Hawk spiritual successor that got an announced sequel called HYPERFUNK.
 - Read the Article: https://games.mxdwn.com/news/team-reptiles-hyperfunk-receives-its-first-teaser-trailer/
 
 ***
 #### Article 3: A New Chao Garden is on the Horizon in Star Garden
-- ![Image](link-to-image)
+- ![Image](stargarden.jpg)
 - For my third article I'd like to highlight I wrote about an exciting new indie game blending the beloved Kirby Air Ride with Sonic Adventure’s Chao garden. I covered the Kickstarter campaign for Star Garden.
 - Read the Article: https://games.mxdwn.com/news/a-new-chao-garden-is-on-the-horizon-in-star-garden/
 
 ***
 #### Article 4: Veteran Developer Team Behind Super Mario RPG Announce Their Newest Title, Stray Children, Releasing October 30
-- ![Image](link-to-image)
+- ![Image](straychildren.jpg)
 - For my fourth article I wrote about a game from a small collective of veteran developers who worked on Super Mario RPG, Chulip, and Moon, titled Stray Children planned for release to Nintendo Switch and PC via Steam on October 30.
 - Read the Article: https://games.mxdwn.com/news/veteran-developer-team-behind-super-mario-rpg-announce-their-newest-title-stray-children-releasing-october-30/
