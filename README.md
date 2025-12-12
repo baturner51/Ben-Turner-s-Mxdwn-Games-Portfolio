@@ -14,7 +14,7 @@ Loyola University Maryland
 - Full List of Articles: https://www.instagram.com/lukful.news/
 
 #### Article 1: Valve’s New MOBA Deadlock Sees Slight Resurgence in Player Base After Massive Updates
-- ![Image](Deadlock-new-characters-1-370x223.webp)
+- ![Image](deadlock.png)
 - For this first article, I wrote about recent revival of Deadlock, Valve’s latest 6v6 third-person team shooter MOBA.
 - Read the Article: https://games.mxdwn.com/news/valves-new-moba-deadlock-sees-slight-resurgence-in-player-base-after-massive-updates/
 
