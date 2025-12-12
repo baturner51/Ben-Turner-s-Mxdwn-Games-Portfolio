@@ -19,7 +19,7 @@ During my internship with Mxdwn games this semester I had the privilage of writi
 
 #### Article 1: Valve’s New MOBA Deadlock Sees Slight Resurgence in Player Base After Massive Updates
 ![Image](deadlock.png)
-- For this first article, I wrote about recent revival of Deadlock, Valve’s latest 6v6 third-person team shooter MOBA.
+- For my first article, I wrote about the recent resurgence in popularity seen by Deadlock, Valve’s latest 6v6 third-person team shooter MOBA, after a number of new characters where added to the roster.
 - [Read the Article](https://games.mxdwn.com/news/valves-new-moba-deadlock-sees-slight-resurgence-in-player-base-after-massive-updates/)
 
 ***
