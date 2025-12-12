@@ -11,7 +11,7 @@ Loyola University Maryland
 
 ### All of My Articles:
 - During my internship with Mxdwn games this semester I had the privilage of writing 67 individual game related articles over the course of four months. Due to the sheer amount of articles, a list of all of them in chronological order can find  at my dedicated game article Instagram account.
-- [Full List of Articles]((https://www.instagram.com/lukful.news/))
+Full List of Articles: https://www.instagram.com/lukful.news/
 
 #### Article 1: Valve’s New MOBA Deadlock Sees Slight Resurgence in Player Base After Massive Updates
 - For this first article, I wrote about recent revival of Deadlock, Valve’s latest 6v6 third-person team shooter MOBA.
