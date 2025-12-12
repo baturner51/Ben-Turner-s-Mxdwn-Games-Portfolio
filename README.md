@@ -7,11 +7,12 @@ I am a 3rd-year writing major at Loyola University Maryland, currently intereste
 **BSc in Writing**  
 Loyola University Maryland
 
-### Highlighted Articles
-
 ### All of My Articles:
 - During my internship with Mxdwn games this semester I had the privilage of writing 67 individual game related articles over the course of four months. Due to the sheer amount of articles, a list of all of them in chronological order can find  at my dedicated game article Instagram account.
 - Full List of Articles: https://www.instagram.com/lukful.news/
+
+
+### Highlighted Articles
 
 #### Article 1: Valve’s New MOBA Deadlock Sees Slight Resurgence in Player Base After Massive Updates
 - ![Image](deadlock.png)
