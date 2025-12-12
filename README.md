@@ -15,7 +15,7 @@ Loyola University Maryland
 
 #### Article 1: Valve’s New MOBA Deadlock Sees Slight Resurgence in Player Base After Massive Updates
 - For this first article, I wrote about recent revival of Deadlock, Valve’s latest 6v6 third-person team shooter MOBA.
-- [Read the Article]([link-to-report](https://games.mxdwn.com/news/valves-new-moba-deadlock-sees-slight-resurgence-in-player-base-after-massive-updates/))
+- [Read the Article]((https://games.mxdwn.com/news/valves-new-moba-deadlock-sees-slight-resurgence-in-player-base-after-massive-updates/))
 
 ***
 #### Article 2: Team Reptile’s HYPERFUNK Receives its First Teaser Trailer
