@@ -2,15 +2,17 @@
 I am a 3rd-year writing major at Loyola University Maryland, currently interested in becoming an author. I love writing fiction. Video games, and movies are my primary sources of inspiration, though, rather than literature. In my free time, I love listening to music.
 During the fall semester of my Junior year, I partook in a writing internship with Mxdwn games, writing articles about current events in the video games industry.
 
+***
 ### Education
 **Working on a BA in Writing**
-Loyola University Maryland
+- Loyola University Maryland
+***
 
 ### All of My Articles
 During my internship with Mxdwn games this semester I had the privilage of writing 67 individual game related articles over the course of four months. Due to the sheer amount of articles, a list of all of them in chronological order can find  at my dedicated game article Instagram account, or at my personal Mxdwn games author page.
 
 - Full List of Articles:
-[Instagram](https://www.instagram.com/lukful.news/) <br> [Author Page](https://games.mxdwn.com/author/august-turner/)
+- [Instagram](https://www.instagram.com/lukful.news/) <br> [Author Page](https://games.mxdwn.com/author/august-turner/)
 
 ***
 ### Highlighted Articles
@@ -29,7 +31,7 @@ During my internship with Mxdwn games this semester I had the privilage of writi
 ***
 #### Article 3: A New Chao Garden is on the Horizon in Star Garden
 ![Image](stargarden.jpg)
-- For my third article I'd like to highlight I wrote about an exciting new indie game blending the beloved Kirby Air Ride with Sonic Adventure’s Chao garden. I covered the Kickstarter campaign for Star Garden.
+- For my third article, I wrote about Star Garden, an exciting upcoming indie game being crowdfunded on Kickstarter blending the beloved Kirby Air Ride with Sonic Adventure’s Chao garden.
 - [Read the Article](https://games.mxdwn.com/news/a-new-chao-garden-is-on-the-horizon-in-star-garden/)
 
 ***
