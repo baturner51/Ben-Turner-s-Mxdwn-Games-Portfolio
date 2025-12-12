@@ -10,8 +10,9 @@ During the fall semester of my Junior year, I partook in a writing internship wi
 ### All of My Articles
 During my internship with Mxdwn games this semester I had the privilage of writing 67 individual game related articles over the course of four months. Due to the sheer amount of articles, a list of all of them in chronological order can find  at my dedicated game article Instagram account, or at my personal Mxdwn games author page.
 
-- Full List of Articles:
-- [Instagram](https://www.instagram.com/lukful.news/) <br> [Author Page](https://games.mxdwn.com/author/august-turner/)
+**Full List of Articles:**
+- [Instagram](https://www.instagram.com/lukful.news/)
+- [Author Page](https://games.mxdwn.com/author/august-turner/)
 
 ***
 ### Highlighted Articles
